@@ -41,7 +41,7 @@
 
 ## 💻 Working Environment
 
-![Windows 11](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Windows Subsystem for Android](https://img.shields.io/badge/Windows%20Subsystem%20for%20Android-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 
