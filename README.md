@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=G0m1b4ko&hide_border=true&title_color=000&layout=compact">
 
-- 陽キャdesu🥺~~~ 
+- ~~~陽キャ~~~desu🥺~~~ 
 - zh-CN / en-US / ja-JP
 - Programmer / Developer / Coder / Engineer
 - Virtual Games / ~~Galgame~~ Lover
