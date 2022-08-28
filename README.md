@@ -52,3 +52,7 @@
 ![Huawei Mate40 Pro](https://img.shields.io/badge/Huawei%20Mate40%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei MatePad Pro](https://img.shields.io/badge/Huawei%20MatePad%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Apple iPhone 5](https://img.shields.io/badge/Apple%20iPhone%205-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
