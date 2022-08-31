@@ -57,7 +57,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 28 August 2022 - To: 29 August 2022
+
+Total Time: 18 mins
+
+YAML       11 mins         >>>>>>>>>>>>>>>>---------   63.13 %
+Git        5 mins          >>>>>>>------------------   27.28 %
+Markdown   1 min           >>-----------------------   09.06 %
+JSON       0 secs          -------------------------   00.52 %
 ```
 
 <!--END_SECTION:waka-->
