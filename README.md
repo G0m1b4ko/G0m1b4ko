@@ -57,14 +57,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 August 2022 - To: 31 August 2022
+From: 28 August 2022 - To: 02 September 2022
 
-Total Time: 18 mins
+Total Time: 19 mins
 
-YAML       11 mins         >>>>>>>>>>>>>>>>---------   63.13 %
-Git        5 mins          >>>>>>>------------------   27.28 %
-Markdown   1 min           >>-----------------------   09.06 %
-JSON       0 secs          -------------------------   00.52 %
+YAML         11 mins         >>>>>>>>>>>>>>>----------   60.46 %
+Git          5 mins          >>>>>>>------------------   26.13 %
+Markdown     1 min           >>-----------------------   09.03 %
+C            0 secs          -------------------------   01.52 %
+JSON         0 secs          -------------------------   01.45 %
+Makefile     0 secs          -------------------------   01.27 %
 ```
 
 <!--END_SECTION:waka-->
