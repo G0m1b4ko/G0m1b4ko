@@ -57,13 +57,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 August 2022 - To: 13 November 2022
+From: 28 August 2022 - To: 14 November 2022
 
-Total Time: 9 hrs 15 mins
+Total Time: 11 hrs 58 mins
 
-Python          3 hrs 57 mins   >>>>>>>>>>>--------------   42.71 %
-Java            3 hrs 45 mins   >>>>>>>>>>---------------   40.57 %
-Other           15 mins         >------------------------   02.79 %
+Python          6 hrs 39 mins   >>>>>>>>>>>>>>-----------   55.68 %
+Java            3 hrs 45 mins   >>>>>>>>-----------------   31.39 %
+Other           15 mins         >------------------------   02.16 %
 ```
 
 <!--END_SECTION:waka-->
